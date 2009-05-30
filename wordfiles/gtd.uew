@@ -1,0 +1,12 @@
+/L1"GTD" GTD_LANG Line Comment = * Nocase DisableMLS File Extensions = GTD
+/Colors = 0,8421376,8421376,8421504,0,
+/Colors Back = 16777215,16777215,16777215,16777215,16777215,
+/Colors Auto Back = 1,1,1,1,1,
+/Font Style = 0,0,0,0,0,
+/Indent Strings = ":"
+/Regexp Type = Perl
+/Function String = "(.*):\s*$"
+/Open Fold Strings = ":"
+/Delimiters =	 ()
+/C1"Tags" Colors = 16711680 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 0
+** @
